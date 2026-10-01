@@ -7,7 +7,11 @@
   font-size: 78px;
   font-weight: 400px;
   line-height: 78px;
+<<<<<<< HEAD
   margin: 0px;  
+=======
+  margin: 0px;
+>>>>>>> 02754409f46d06287768628586330394aacb2edd
   text-align: center;
   margin-bottom: 30px;
 }
@@ -19,7 +23,21 @@ body {
   background-position: top center;
 }
 
+<<<<<<< HEAD
 .card {
+=======
+.container {
+  width: 1110px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: center;
+  gap: 40px;
+}
+
+.product-card {
+>>>>>>> 02754409f46d06287768628586330394aacb2edd
   height: auto;
   padding: 25px;
   background-color: #f7f7fa;
@@ -48,6 +66,7 @@ width: 340px;
   margin-left: 0px;
   margin-bottom: 25px;
 }
+<<<<<<< HEAD
 .compound {
   list-style-position: inside;
 
@@ -57,6 +76,9 @@ width: 340px;
 {background-color: #f7f7fa;}
 
 .header {
+=======
+.product-header {
+>>>>>>> 02754409f46d06287768628586330394aacb2edd
   display: flex;
   flex-direction: column;
   gap: 5px;
